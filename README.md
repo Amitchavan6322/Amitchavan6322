@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You will come to know me soon!
 
 ## Stack I work with
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/PTC_Windchill.png"></code>
 <code><img height="50" src="https://support.ptc.com/help/thingworx_hc/visual_sdk/overview/img/thingworx-color.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
